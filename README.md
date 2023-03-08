@@ -1,2 +1,2 @@
 # Preparation
-Hello to my DevNet-Cor
+Hello to my DevNet-DEVCor
