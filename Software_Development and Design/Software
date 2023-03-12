@@ -1,0 +1,30 @@
+# Software Development and Design
+
+ - Describe distributed applications related to the concepts of front-end, back-end, and
+   load balancing
+ 
+ - Evaluate an application design considering scalability and modularity
+ 
+ - Evaluate an application design considering high-availability and resiliency (including onpremises, hybrid, and 
+   cloud)
+ 
+ - Evaluate an application design considering latency and rate limiting
+ 
+ - Evaluate an application design and implementation considering maintainability
+ 
+ - Evaluate an application design and implementation considering observability
+ 
+ - Diagnose problems with an application given logs related to an event
+ 
+ - Evaluate choice of database types with respect to application requirements (such as
+   relational, document, graph, columnar, and Time Series)
+ 
+ - Explain architectural patterns (monolithic, services oriented, microservices, and event
+   driven)
+ 
+ - Utilize advanced version control operations with Git
+   - Merge a branch
+   - Resolve conflicts
+   - git reset
+   - git checkout
+   - git revert
